@@ -35,3 +35,29 @@
 新增12张W卡、30分钟工作模块、P/S评分、前14次配套工作训练和提醒续接均为自主课程设计，不是已验证的标准化干预。原84张S卡保持不变。结构校验不能证明12周后的学习效果。
 
 通知与文件访问说明参考OpenAI Help Center Scheduled tasks in ChatGPT（https://help.openai.com/en/articles/10291617-tasks-in-chatgpt ，2026-10-13核查）；具体设置仍以当时工具返回和账户权限为准。
+
+## 趣味与探索层的依据方向
+
+本次新增的回声群岛、常驻听众、误读回声、事件牌、12种快局、12张方法卡、语言与叙事实验室、校准记录与陷阱图鉴，均为自主课程设计。下列文献只说明设计借鉴的方向，不证明这些游戏或本技能的训练效果。以下条目依据制作者的学术知识列出，本次升级未逐条联网核查页码与DOI，引用前请核查。
+
+| 设计 | 借鉴方向 | 代表文献 |
+|---|---|---|
+| 误读回声、远航者 | 知识的诅咒：说话者高估听者能理解的程度 | Newton, 1990, 斯坦福大学博士论文（“敲歌”实验）；Heath & Heath, 2007, *Made to Stick* |
+| G01费曼盲区、T09 | 解释深度错觉；自我解释促进理解 | Rozenblit & Keil, 2002, *Cognitive Science* 26(5)；Chi et al., 1994, *Cognitive Science* 18(3) |
+| G02传话链 | 系列再现中的图式化失真 | Bartlett, 1932, *Remembering* |
+| G03、语言实验室“预设”“量级含义”、G06 | 预设与会话含义；合作原则 | Grice, 1975, “Logic and Conversation” |
+| 语言实验室“言语行为” | 言语行为的适切条件 | Austin, 1962, *How to Do Things with Words*；Searle, 1969, *Speech Acts* |
+| G04、T02 | 抽象阶梯 | Hayakawa, 1941, *Language in Action* |
+| G07 | 框架效应 | Tversky & Kahneman, 1981, *Science* 211 |
+| G08、T07 | 先复述再批评的论辩规范 | Dennett, 2013, *Intuition Pumps* 中整理的Rapoport规则 |
+| G10、T06 | 预先验尸 | Klein, 2007, *Harvard Business Review* |
+| T01 | 论证结构 | Toulmin, 1958, *The Uses of Argument* |
+| 叙事实验室六部分 | 口头经历叙事结构 | Labov & Waletzky, 1967 |
+| 叙事速度、讲述顺序 | 叙事时间与顺序 | Genette, 1972/1980, *Narrative Discourse* |
+| 群岛世界、委托与赌注 | 叙事投入；自主、胜任、关系三种基本需要 | Green & Brock, 2000, *JPSP* 79(5)；Ryan & Deci, 2000, *American Psychologist* 55(1) |
+| 事件牌、交错与加压 | 适度困难 | Bjork, 1994 |
+| G12、校准协议 | 校准与概率化判断 | Tetlock & Gardner, 2015, *Superforecasting* |
+| 陷阱由用户命名 | 生成效应 | Slamecka & Graf, 1978, *JEP: Human Learning and Memory* 4(6) |
+| 主动复述、间隔、解释性提问 | 学习技术的证据综述 | Dunlosky et al., 2013, *Psychological Science in the Public Interest* 14(1) |
+
+**刻意的限制**：能力地图按证据而非打卡解锁，是为了避免外在奖励把注意力从“说清楚”转到“刷次数”（自我决定理论关于控制性奖励的提醒）。误读回声是模型模拟，可能过度或不足推断，只作练习材料。“不采用的流行说法”清单见[thinking-toolkit.md](thinking-toolkit.md)。
